@@ -23,9 +23,9 @@
         "package": "swift-case-paths",
         "repositoryURL": "https://github.com/pointfreeco/swift-case-paths",
         "state": {
-          "branch": null,
-          "revision": "5da6989aae464f324eef5c5b52bdb7974725ab81",
-          "version": "1.0.0"
+          "branch": "case-key-paths",
+          "revision": "8cf70d4fb113e124cfb2c9a211b8798dd0bfeb4c",
+          "version": null
         }
       },
       {
@@ -50,9 +50,9 @@
         "package": "swift-composable-architecture",
         "repositoryURL": "https://github.com/pointfreeco/swift-composable-architecture",
         "state": {
-          "branch": null,
-          "revision": "195284b94b799b326729640453f547f08892293a",
-          "version": "1.0.0"
+          "branch": "case-key-paths",
+          "revision": "05b9b225c4f23ac777905bf87882763837bd111d",
+          "version": null
         }
       },
       {
@@ -60,8 +60,8 @@
         "repositoryURL": "https://github.com/pointfreeco/swift-concurrency-extras",
         "state": {
           "branch": null,
-          "revision": "ea631ce892687f5432a833312292b80db238186a",
-          "version": "1.0.0"
+          "revision": "bb5059bde9022d69ac516803f4f227d8ac967f71",
+          "version": "1.1.0"
         }
       },
       {
@@ -92,12 +92,21 @@
         }
       },
       {
+        "package": "swift-syntax",
+        "repositoryURL": "https://github.com/apple/swift-syntax.git",
+        "state": {
+          "branch": null,
+          "revision": "6ad4ea24b01559dde0773e3d091f1b9e36175036",
+          "version": "509.0.2"
+        }
+      },
+      {
         "package": "swiftui-navigation",
         "repositoryURL": "https://github.com/pointfreeco/swiftui-navigation",
         "state": {
-          "branch": null,
-          "revision": "f5bcdac5b6bb3f826916b14705f37a3937c2fd34",
-          "version": "1.0.0"
+          "branch": "case-key-paths",
+          "revision": "b1af3288064968ac7de6a84047bd27a9ca99c94f",
+          "version": null
         }
       },
       {
